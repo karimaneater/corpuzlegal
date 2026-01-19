@@ -26,13 +26,13 @@ export function Hero() {
             <Button size="lg" className="bg-white text-blue-900 hover:bg-gray-100">
               Schedule Consultation
             </Button>
-            <Button 
+            {/* <Button 
               size="lg" 
               variant="outline" 
               className="border-white text-white hover:bg-white/10"
             >
               Learn More
-            </Button>
+            </Button> */}
           </div>
         </div>
       </div>
