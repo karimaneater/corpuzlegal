@@ -1,7 +1,7 @@
 
   # Law Practice Website Mock-up
 
-  This is a code bundle for Law Practice Website Mock-up. The original project is available at https://www.figma.com/design/rpDyIQ3cgq9qirQl0yF0MZ/Law-Practice-Website-Mock-up.
+  This is a code bundle for Law Practice Website Mock-up. Made using Figma, Reactjs, Tailwind
 
   ## Running the code
 
